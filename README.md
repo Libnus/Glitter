@@ -14,8 +14,9 @@ Navigation through windows is simple. Add classes, their grading criteria, and a
 
 Glitter also supports a rudimentary class saving system so your grades are remembered the next time you load Glitter!
 
-# Features: Allows students to add classes, assignments, 
-semesters,And keep track of grades and overall performance
+# Features: 
+Allows students to add classes, assignments, 
+semesters, and keep track of grades and overall performance
 
 
 # Planned Features: 
