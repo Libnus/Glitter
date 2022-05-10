@@ -21,3 +21,4 @@ semesters, and keep track of grades and overall performance
 
 # Planned Features: 
 Show students what academic areas they struggle with and need improvement in
+# Glitter
